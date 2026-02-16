@@ -1,0 +1,9 @@
+{
+	"name": "amepv0197r",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb9da547-a800-41fa-b4ae-b93799b5ae50",
+		"tenantId": "1a597ab0-0ec9-4067-a997-36187b26637c"
+	}
+}
